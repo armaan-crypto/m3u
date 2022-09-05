@@ -1,0 +1,328 @@
+#EXTM3U
+
+#EXTINF:-1 open-browser="true" is-regex="true" tvg-logo="https://i.imgur.com/9aCX9G4.png" referer="http://maxsports.site" group-title="Live Events",Real Valladolid - Almeria
+http://maxsports.site/fb-laliga-stream/?sport=soccer
+
+#EXTINF:-1 open-browser="false" is-regex="false" tvg-logo="https://i.imgur.com/9aCX9G4.png" referer="https://techclips.net" group-title="Live Events",Real Valladolid - Almeria
+https://cdn3.reels2watch.com/hls/s3.m3u8
+
+#EXTINF:-1 open-browser="true" is-regex="true" tvg-logo="https://i.imgur.com/9aCX9G4.png" referer="http://hockeyweb.live" group-title="Live Events",Real Valladolid - Almeria
+http://hockeyweb.live/daily/news/real22/?sport=soccer
+
+#EXTINF:-1 open-browser="true" is-regex="true" tvg-logo="https://i.imgur.com/9aCX9G4.png" referer="http://motornews.live" group-title="Live Events",Real Valladolid - Almeria
+http://motornews.live/novo/bite/motor-laliga-s3/?sport=soccer
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/tXJb1pM.png" referer="https://gocast123.me" group-title="Sports",BT Sport 1
+https://gocast123.me/embed.php?player=desktop&v=bbtsp1
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/tXJb1pM.png" referer="https://gocast123.me" group-title="Sports",BT Sport 2
+https://gocast123.me/embed.php?player=desktop&v=bbtsp2
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/tXJb1pM.png" referer="https://gocast123.me" group-title="Sports",BT Sport 3
+https://gocast123.me/embed.php?player=desktop&v=bbtsp3
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/tXJb1pM.png" referer="https://gocast123.me" group-title="Sports",BT Sport ESPN
+https://gocast123.me/embed.php?player=desktop&v=bbtespn
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Main Event
+https://gocast123.me/embed.php?player=desktop&v=skysme
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Cricket
+https://gocast123.me/embed.php?player=desktop&v=skyscric
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Football
+https://gocast123.me/embed.php?player=desktop&v=skysfott
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Arena
+https://gocast123.me/embed.php?player=desktop&v=skysare
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Action
+https://gocast123.me/embed.php?player=desktop&v=skysact
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Golf
+https://gocast123.me/embed.php?player=desktop&v=skysgol
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Premier League
+https://gocast123.me/embed.php?player=desktop&v=skysprem
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports F1
+https://gocast123.me/embed.php?player=desktop&v=skysfor1
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/ybkgjiG.png" referer="https://gocast123.me" group-title="Sports",Sky Sports Mix
+https://gocast123.me/embed.php?player=desktop&v=skysmixx
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/UBA8B8H.png" referer="https://gocast123.me" group-title="Sports",Fox Sports 1
+https://gocast123.me/embed.php?player=desktop&v=yt2
+
+#EXTINF:-1 is-regex="true" open-browser="true" tvg-logo="https://imgur.com/RxPa2we.png" referer="https://gocast123.me" group-title="Sports",ESPN
+https://gocast123.me/embed.php?player=desktop&v=yt3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5SHcsgu.png" group-title="News",CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/c13OXV4.png" group-title="News",BBC News
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lb3ZXCC.png" group-title="USA",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rWLxLIp.png" group-title="Financial",Bloomberg TV+
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/C2A1Q3T.png" group-title="USA",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DOfJnPP.png" group-title="USA",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rWLxLIp.png" group-title="Financial",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rWLxLIp.png" group-title="Financial",Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rWLxLIp.png" group-title="Financial",Bloomberg EU
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VBH2mQn.png" group-title="Entertainment",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eQ4PPQN.png" group-title="Turkish",Show TV
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BZmwL2I.png" group-title="Turkish",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IOYFDOd.png" group-title="Turkish",TRT Turk
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fI0zzcF.png" group-title="Turkish",Haber Turk
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2yKlqHm.png" group-title="Turkish",CNN Turk
+https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OtdhRGk.png" group-title="Turkish",NTV
+https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6aD4yBb.png" group-title="Turkish",TRT Belgesel
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Turkish",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/jfgvEhX.png" group-title="Movies",Sonic The Hedgehog 2 
+ivurt<01wqf0tz0j6yjeczbehh7
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/jfgvEhX.png" group-title="Movies",Sonic The Hedgehog 2 
+ivurt<01wqf0tz03l5puwgbtfse
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/jfgvEhX.png" group-title="Movies",Sonic The Hedgehog 2 
+ivurt<01wqf0tz0gg|d86l5tk8l
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/jfgvEhX.png" group-title="Movies",Sonic The Hedgehog 2 
+ivurt<01wqf0tz0g0{9kv|j7vs43w
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TrE2uGq.png" group-title="Movies",The Batman
+ivurt<01wqf0tz0t6ypfm51pnz3
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TrE2uGq.png" group-title="Movies",The Batman
+ivurt<01wqf0tz0|nmded:9|nf3
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TrE2uGq.png" group-title="Movies",The Batman
+ivurt<01wqf0tz0og6bimtz72|5
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TrE2uGq.png" group-title="Movies",The Batman
+ivurt<01wqf0tz0g0vg6kdrv4kzt9
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TrE2uGq.png" group-title="Movies",The Batman
+ivurt<01wqf0tz0kj43qjumv4t8
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/hoFuyuk.png" group-title="Movies",Uncharted
+ivurt<01wqf0tz0yr9{|7v62epn
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/hoFuyuk.png" group-title="Movies",Uncharted
+ivurt<01wqf0tz0jiis{q;c2b|b
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/hoFuyuk.png" group-title="Movies",Uncharted
+ivurt<01wqf0tz0g0nokly5;xucj2
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/IvdxNgW.png" group-title="Movies",House of Gucci
+ivurt<01wqf0tz0g0;9{sdv4mx:qv
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/1CfCFvI.png" group-title="Movies",Ghostbusters Afterlife
+ivurt<01wqf0tz08f5f3ekh;fgj
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/Pen7dUv.png" group-title="Movies",The King's Man
+ivurt<01wqf0tz0g0f3jl8rmuvjr{
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/Pen7dUv.png" group-title="Movies",The King's Man
+ivurt<01wqf0tz0|7m2m7gyy1jp
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/sZhbzC6.png" group-title="Movies",Dune
+ivurt<01wqf0tz0ue9qzcvhljyt
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/sZhbzC6.png" group-title="Movies",Dune
+ivurt<01wqf0tz0v{6fhmt5hxyt
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/sZhbzC6.png" group-title="Movies",Dune
+ivurt<01wqf0tz031d5t:g67jnn
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/EfwivLt.png" group-title="Movies",The Matrix Resurrections
+ivurt<01wqf0tz07t3rkerk4rz4
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/V8XZqaJ.png" group-title="Movies",Shang-Chi
+ivurt<01wqf0tz093yy6oxjkrfe
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/3riatah.png" group-title="Movies",Free Guy
+ivurt<01wqf0tz0oj4iq99clyn{
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/3riatah.png" group-title="Movies",Free Guy
+ivurt<01wqf0tz0s3egczsw6iyy
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/3riatah.png" group-title="Movies",Free Guy
+ivurt<01wqf0tz0{{tzr3;4en36
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/3riatah.png" group-title="Movies",Free Guy
+ivurt<01wqf0tz02xqtwj|h{44q
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/3riatah.png" group-title="Movies",Free Guy
+ivurt<01wqf0tz0wj4gtpiy6{|2
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/NT2Zooe.png" group-title="Movies",Fast & Furious 9
+ivurt<01wqf0tz0rlp6wm94qof{
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/NT2Zooe.png" group-title="Movies",Fast & Furious 9
+ivurt<01wqf0tz0khm69t6wse4c
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/NT2Zooe.png" group-title="Movies",Fast & Furious 9
+ivurt<01wqf0tz0fu{wgihl|cdi
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/bUYpWB7.png" group-title="Movies",Suicide Squad
+ivurt<01wqf0tz08f24|{n8wre9
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/bUYpWB7.png" group-title="Movies",Suicide Squad
+ivurt<01wqf0tz0yyefll6v7r;30ivnn
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/bUYpWB7.png" group-title="Movies",Suicide Squad
+ivurt<01wqf0tz04hwuf{jzen2b
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/bUYpWB7.png" group-title="Movies",Suicide Squad
+ivurt<01wqf0tz0|kf{xq5vohm2
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/4UdQu4V.png" group-title="Movies",Black Widow
+ivurt<01wqf0tz0ojhoqpmtjt7u
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/aoFD87v.png" group-title="Movies",The Forever Purge
+ivurt<01wqf0tz0xxwurzxjmj7g
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/aoFD87v.png" group-title="Movies",The Forever Purge
+ivurt<01wqf0tz0ivhmz2ezgdij
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/wTDYeg4.png" group-title="Movies",Hitman's Wife's Bodyguard
+ivurt<01wqf0tz03szb6deviz5g
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/wTDYeg4.png" group-title="Movies",Hitman's Wife's Bodyguard
+ivurt<01wqf0tz0dfkqjk|8p3dc
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/tIs95RP.png" group-title="Movies",Jungle Cruise
+ivurt<01wqf0tz0kbzyl6ryw55s
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/tIs95RP.png" group-title="Movies",Jungle Cruise
+ivurt<01wqf0tz0s{44sgq26o{x
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/tIs95RP.png" group-title="Movies",Jungle Cruise
+ivurt<01wqf0tz0ek7cw1psi8i1
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/tIs95RP.png" group-title="Movies",Jungle Cruise
+ivurt<01wqf0tz0mj|vu:3s85t8
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/dc2HuWY.png" group-title="Movies",Space Jam: A New Legacy
+ivurt<01wqf0tz0993x5j61gbow
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/XItFiX1.png" group-title="Movies",The Tomorrow War
+ivurt<01wqf0tz0fswz|r4x25cv
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/XItFiX1.png" group-title="Movies",The Tomorrow War
+ivurt<01wqf0tz0jv|nv:784z;i
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/vYCzRSl.png" group-title="Movies",Zack Snyders Justice League
+ivurt<01wqf0tz0ijjzrdi{gu32
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/JoJGRBg.png" group-title="Movies",Tom & Jerry
+ivurt<01wqf0tz0r:icsn36u386
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/DPTiBwk.png" group-title="Movies",Raya and the Last Dragon
+ivurt<01wqf0tz0jqtxzx:cxvo5
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/DPTiBwk.png" group-title="Movies",Raya and the Last Dragon
+ivurt<01wqf0tz09hdf8pxdtu{r
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/tk56n2C.png" group-title="Movies",Wonder Woman 1984
+ivurt<01wqf0tz02l6ir4gw65vw
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/tk56n2C.png" group-title="Movies",Wonder Woman 1984
+ivurt<01wqf0tz0{2:sev7y{vci
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/tk56n2C.png" group-title="Movies",Wonder Woman 1984
+ivurt<01wqf0tz0gr6ijbwyybgy
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/8MY0y8e.png" group-title="Movies",Love and Monsters
+ivurt<01wqf0tz081jdg7{92i|1
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/8MY0y8e.png" group-title="Movies",Love and Monsters
+ivurt<01wqf0tz06pjp{u|p{fd4
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/HmQRtd2.png" group-title="Movies",The New Mutants
+ivurt<01wqf0tz08{ppgi8f;zqo
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/jBVsAEH.png" group-title="Movies",The Midnight Sky
+ivurt<01wqf0tz0rnjbv9mu|bxt
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/jBVsAEH.png" group-title="Movies",The Midnight Sky
+ivurt<01wqf0tz0h6kj764rejzl
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/IlyhL7z.png" group-title="Movies",Borat Subsequent Moviefilm
+ivurt<01wqf0tz03z{bmzkbjunx
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/IlyhL7z.png" group-title="Movies",Borat Subsequent Moviefilm
+ivurt<01wqf0tz0jz45e7:7wtud
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/IlyhL7z.png" group-title="Movies",Borat Subsequent Moviefilm
+ivurt<01wqf0tz0l:fry1x2w:ob
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/UafpeiI.png" group-title="Movies",Fatman
+ivurt<01wqf0tz0srtw;{e5frpi
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/UafpeiI.png" group-title="Movies",Fatman
+ivurt<01wqf0tz0pxdej2s3oh7z
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/6tER4Ih.png" group-title="Movies",Freaky
+ivurt<01wqf0tz03ozu8nx3vgj2
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/ZbABp6w.png" group-title="Movies",Extraction
+ivurt<01wqf0tz0e49t:eljdj;p
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/ZbABp6w.png" group-title="Movies",Extraction
+ivurt<01wqf0tz0tow1f8hruw2y
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/Y0l0mbn.png" group-title="Movies",Sonic the Hedgehog
+ivurt<01wqf0tz07lz6fyzhcmdi
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/Y0l0mbn.png" group-title="Movies",Sonic the Hedgehog
+ivurt<01wqf0tz03hmf:276vez7
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/yqUXQ40.png" group-title="Movies",The Way Back
+ivurt<01wqf0tz0o:9fwl48ori1
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TzmRNqx.png" group-title="Movies",Spider-Man: Far from Home
+ivurt<01wqf0tz0x{58y8olny4t
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TzmRNqx.png" group-title="Movies",Spider-Man: Far from Home
+ivurt<01wqf0tz0dpizt4i8uytx
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/TzmRNqx.png" group-title="Movies",Spider-Man: Far from Home
+ivurt<01wqf0tz0k17vvs:6gno1
+
+#EXTINF:-1 open-browser="true" is-regex="true" is-coded="true" tvg-logo="https://imgur.com/ht1tBRa.png" group-title="Movies",Terminator: Dark Fate
+ivurt<01wqf0tz0li3mii2ehh|t
